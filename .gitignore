@@ -1,0 +1,5 @@
+# Only the published page is tracked; everything else stays local.
+src/
+jour-atelier-demo.html
+.claude/
+.DS_Store
